@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.2" apprev="17873" start="node8">
+  <panorama id="node8" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="179.43" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA|INTERIOR|INVERTIDOS" datetime="" comment="" copyright="" nodeid="node8" info="" description="Acceso Depto. A" latitude="" customnodeid="" title="Acceso Depto. A">
+      <mapcoords mapid="FloorPlan03" x="1.44196" x_floorplan_percent="54.6875" y="-0.466919" y_floorplan_percent="31.4815"/>
+      <mapcoords mapid="FloorPlan04" x="1.2291" x_floorplan_percent="46.6146" y="-0.418854" y_floorplan_percent="28.2407"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="43.13" id="Point01" tilt="0" target="-20.5/-3.4/70.0" skinid="ht_node" url="{node12}" description="" title="Pasillo"/>
+      <hotspot pan="272.29" id="Point03" tilt="0" target="-57.1/-5.1/70.0" skinid="ht_node" url="{node9}" description="" title="Comedor - Cocina"/>
+      <hotspot pan="314.71" id="Point02" tilt="0" target="-29.3/-0.5/70.0" skinid="ht_node" url="{node10}" description="" title="Estar"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-176.44" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="4"/>
+      <min pan="0" fovpixel="1" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA|INTERIOR|INVERTIDOS" datetime="" comment="" copyright="" nodeid="node9" info="" description="Comedor - Cocina" latitude="" customnodeid="" title="Comedor - Cocina">
+      <mapcoords mapid="FloorPlan03" x="1.77841" x_floorplan_percent="67.4479" y="-0.54245" y_floorplan_percent="36.5741"/>
+      <mapcoords mapid="FloorPlan04" x="0.899506" x_floorplan_percent="34.1146" y="-0.439453" y_floorplan_percent="29.6296"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-254" id="Point01" tilt="0.37" target="70.3/0.0/70.0" skinid="ht_node" url="{node8}" description="" title="Acceso Depto. A"/>
+      <hotspot pan="-358.78" id="Point02" tilt="0" target="-6.2/-1.4/70.0" skinid="ht_node" url="{node10}" description="" title="Estar"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-172.53" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA|INTERIOR|INVERTIDOS" datetime="" comment="" copyright="" nodeid="node10" info="" description="Estar" latitude="" customnodeid="" title="Estar">
+      <mapcoords mapid="FloorPlan03" x="1.82648" x_floorplan_percent="69.2708" y="-0.920105" y_floorplan_percent="62.037"/>
+      <mapcoords mapid="FloorPlan04" x="0.789642" x_floorplan_percent="29.9479" y="-0.762177" y_floorplan_percent="51.3889"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-187.02" id="Point01" tilt="0" target="-146.6/-4.6/70.0" skinid="ht_node" url="{node9}" description="" title="Comedor - Cocina"/>
+      <hotspot pan="328.57" id="Point02" tilt="0" target="-30.5/-3.3/70.0" skinid="ht_node" url="{node11}" description="" title="Terraza"/>
+      <hotspot pan="-228.73" id="Point03" tilt="0" target="79.0/0.0/70.0" skinid="ht_node" url="{node8}" description="" title="Acceso Depto. A"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-163.44" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA|INTERIOR|INVERTIDOS" datetime="28-02-2023 17:30" comment="" copyright="" nodeid="node11" info="" description="Terraza" latitude="" customnodeid="" title="Terraza">
+      <mapcoords mapid="FloorPlan03" x="2.08054" x_floorplan_percent="78.9063" y="-1.31836" y_floorplan_percent="88.8889"/>
+      <mapcoords mapid="FloorPlan04" x="0.521851" x_floorplan_percent="19.7917" y="-1.22223" y_floorplan_percent="82.4074"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-191.56" id="Point01" tilt="0" target="141.1/-3.0/70.0" skinid="ht_node" url="{node10}" description="" title="Estar"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="82.86" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA|INTERIOR|INVERTIDOS" datetime="" comment="" copyright="" nodeid="node12" info="" description="Pasillo" latitude="" customnodeid="" title="Pasillo">
+      <mapcoords mapid="FloorPlan03" x="1.19476" x_floorplan_percent="45.3125" y="-0.521851" y_floorplan_percent="35.1852"/>
+      <mapcoords mapid="FloorPlan04" x="1.44196" x_floorplan_percent="54.6875" y="-0.494385" y_floorplan_percent="33.3333"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-184.13" id="Point01" tilt="0" target="-83.8/-2.2/70.0" skinid="ht_node" url="{node8}" description="" title="Acceso Depto. A"/>
+      <hotspot pan="-263.7" id="Point02" tilt="0" target="4.9/-3.6/70.0" skinid="ht_node" url="{node13}" description="" title="Baño 1"/>
+      <hotspot pan="236.59" id="Point03" tilt="0.12" target="-10.8/-2.9/70.0" skinid="ht_node" url="{node14}" description="" title="Dormitorio 3"/>
+      <hotspot pan="300.85" id="Point04" tilt="0" target="12.3/-10.9/70.0" skinid="ht_node" url="{node15}" description="" title="Dormitorio 2"/>
+      <hotspot pan="352.61" id="Point05" tilt="0" target="62.6/-5.7/70.0" skinid="ht_node" url="{node16}" description="" title="Dormitorio 1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-9.96" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA|INTERIOR|INVERTIDOS" datetime="" comment="" copyright="" nodeid="node13" info="" description="Baño 1" latitude="" customnodeid="" title="Baño 1">
+      <mapcoords mapid="FloorPlan03" x="1.17416" x_floorplan_percent="44.5313" y="-0.343323" y_floorplan_percent="23.1481"/>
+      <mapcoords mapid="FloorPlan04" x="1.41449" x_floorplan_percent="53.6458" y="-0.267792" y_floorplan_percent="18.0556"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="174.02" id="Point01" tilt="0" target="-103.1/0.0/70.0" skinid="ht_node" url="{node12}" description="" title="Pasillo"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-175.48" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA|INTERIOR|INVERTIDOS" datetime="" comment="" copyright="" nodeid="node14" info="" description="Dormitorio 3" latitude="" customnodeid="" title="Dormitorio 3">
+      <mapcoords mapid="FloorPlan03" x="1.27029" x_floorplan_percent="48.1771" y="-0.913239" y_floorplan_percent="61.5741"/>
+      <mapcoords mapid="FloorPlan04" x="1.34583" x_floorplan_percent="51.0417" y="-0.858307" y_floorplan_percent="57.8704"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-185.59" id="Point01" tilt="0" target="69.0/-3.8/70.0" skinid="ht_node" url="{node12}" description="" title="Pasillo"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="175.58" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA|INTERIOR|INVERTIDOS" datetime="" comment="" copyright="" nodeid="node15" info="" description="Dormitorio 2" latitude="" customnodeid="" title="Dormitorio 2">
+      <mapcoords mapid="FloorPlan03" x="0.995636" x_floorplan_percent="37.7604" y="-0.87204" y_floorplan_percent="58.7963"/>
+      <mapcoords mapid="FloorPlan04" x="1.64108" x_floorplan_percent="62.2396" y="-0.844574" y_floorplan_percent="56.9444"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-157.45" id="Point01" tilt="0" target="83.7/-9.9/70.0" skinid="ht_node" url="{node12}" description="" title="Pasillo"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="179.8" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA|INTERIOR|INVERTIDOS" datetime="" comment="" copyright="" nodeid="node16" info="" description="Dormitorio 1" latitude="" customnodeid="" title="Dormitorio 1">
+      <mapcoords mapid="FloorPlan03" x="0.611115" x_floorplan_percent="23.1771" y="-0.714111" y_floorplan_percent="48.1481"/>
+      <mapcoords mapid="FloorPlan04" x="2.01874" x_floorplan_percent="76.5625" y="-0.666046" y_floorplan_percent="44.9074"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-116.79" id="Point01" tilt="0" target="169.9/-4.8/70.0" skinid="ht_node" url="{node12}" description="" title="Pasillo"/>
+      <hotspot pan="-145.01" id="Point02" tilt="0" target="2.8/-3.1/70.0" skinid="ht_node" url="{node17}" description="" title="Baño Suite"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-0.32" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA|INTERIOR|INVERTIDOS" datetime="" comment="" copyright="" nodeid="node17" info="" description="Baño Suite" latitude="" customnodeid="" title="Baño Suite">
+      <mapcoords mapid="FloorPlan03" x="0.748444" x_floorplan_percent="28.3854" y="-0.32959" y_floorplan_percent="22.2222"/>
+      <mapcoords mapid="FloorPlan04" x="1.93634" x_floorplan_percent="73.4375" y="-0.30899" y_floorplan_percent="20.8333"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="177.14" id="Point01" tilt="0" target="-3.1/0.0/70.0" skinid="ht_node" url="{node16}" description="" title="Dormitorio 1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-14" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA2|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:16" comment="" copyright="" nodeid="node18" info="" description="Acceso Depto. A2" latitude="" customnodeid="" title="Acceso Depto. A2">
+      <mapcoords mapid="FloorPlan02" x="1.18721" x_floorplan_percent="45.026" y="-0.692825" y_floorplan_percent="46.713"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-43.7" id="Point01" tilt="0" target="-103.8/-1.0/70.0" skinid="ht_node" url="{node19}" description="" title="Comedor - Cocina"/>
+      <hotspot pan="-2.99" id="Point02" tilt="0" target="-48.7/0.3/70.0" skinid="ht_node" url="{node20}" description="" title="Estar"/>
+      <hotspot pan="-220.56" id="Point03" tilt="0" target="72.1/-3.8/70.0" skinid="ht_node" url="{node22}" description="" title="Pasillo"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node19" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-82.47" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA2|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:17" comment="" copyright="" nodeid="node19" info="" description="Comedor - Cocina" latitude="" customnodeid="" title="Comedor - Cocina">
+      <mapcoords mapid="FloorPlan02" x="0.878906" x_floorplan_percent="33.3333" y="-0.521164" y_floorplan_percent="35.1389"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="82.61" id="Point01" tilt="0" target="142.1/-1.6/70.0" skinid="ht_node" url="{node18}" description="" title="Acceso Depto. A2"/>
+      <hotspot pan="345.85" id="Point02" tilt="0" target="-3.3/-1.5/70.0" skinid="ht_node" url="{node20}" description="" title="Estar"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node20" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-58.61" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA2|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:17" comment="" copyright="" nodeid="node20" info="" description="Estar" latitude="" customnodeid="" title="Estar">
+      <mapcoords mapid="FloorPlan02" x="0.779343" x_floorplan_percent="29.5573" y="-0.872726" y_floorplan_percent="58.8426"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-238.29" id="Point01" tilt="0" target="140.0/-0.1/70.0" skinid="ht_node" url="{node18}" description="" title="Acceso Depto. A2"/>
+      <hotspot pan="-158.21" id="Point02" tilt="0" target="178.4/0.0/70.0" skinid="ht_node" url="{node19}" description="" title="Comedor - Cocina"/>
+      <hotspot pan="337.31" id="Point03" tilt="0" target="-164.1/1.3/70.0" skinid="ht_node" url="{node21}" description="" title="Terraza"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node21" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="150.54" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA2|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:21" comment="" copyright="" nodeid="node21" info="" description="Terraza" latitude="" customnodeid="" title="Terraza">
+      <mapcoords mapid="FloorPlan02" x="0.532837" x_floorplan_percent="20.2083" y="-1.20712" y_floorplan_percent="81.3889"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-349.17" id="Point01" tilt="0" target="133.3/-2.7/70.0" skinid="ht_node" url="{node20}" description="" title="Estar"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node22" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-87.3" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA2|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:18" comment="" copyright="" nodeid="node22" info="" description="Pasillo" latitude="" customnodeid="" title="Pasillo">
+      <mapcoords mapid="FloorPlan02" x="1.44745" x_floorplan_percent="54.8958" y="-0.690765" y_floorplan_percent="46.5741"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-94.08" id="Point01" tilt="0" target="-35.0/0.1/70.0" skinid="ht_node" url="{node18}" description="" title="Acceso Depto. A2"/>
+      <hotspot pan="-155.43" id="Point02" tilt="0" target="8.3/-3.2/70.0" skinid="ht_node" url="{node23}" description="" title="Baño 1"/>
+      <hotspot pan="-30.06" id="Point03" tilt="0" target="-20.7/-11.2/70.0" skinid="ht_node" url="{node24}" description="" title="Dormitorio 3"/>
+      <hotspot pan="-332.69" id="Point04" tilt="0" target="3.1/-3.9/70.0" skinid="ht_node" url="{node25}" description="" title="Dormitorio 2"/>
+      <hotspot pan="-264.32" id="Point05" tilt="0" target="64.5/-6.6/70.0" skinid="ht_node" url="{node26}" description="" title="Dormitorio 1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node23" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="89.14" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA2|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:19" comment="" copyright="" nodeid="node23" info="" description="Baño 1" latitude="" customnodeid="" title="Baño 1">
+      <mapcoords mapid="FloorPlan02" x="1.4241" x_floorplan_percent="54.0104" y="-0.468979" y_floorplan_percent="31.6204"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="189.49" id="Point01" tilt="0" target="3.9/-0.9/70.0" skinid="ht_node" url="{node22}" description="" title="Pasillo"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node24" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-85.36" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA2|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:19" comment="" copyright="" nodeid="node24" info="" description="Dormitorio 3" latitude="" customnodeid="" title="Dormitorio 3">
+      <mapcoords mapid="FloorPlan02" x="1.3472" x_floorplan_percent="51.0938" y="-1.08971" y_floorplan_percent="73.4722"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-181.85" id="Point01" tilt="0" target="-172.8/-4.6/70.0" skinid="ht_node" url="{node22}" description="" title="Pasillo"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node25" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-102.88" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA2|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:20" comment="" copyright="" nodeid="node25" info="" description="Dormitorio 2" latitude="" customnodeid="" title="Dormitorio 2">
+      <mapcoords mapid="FloorPlan02" x="1.66374" x_floorplan_percent="63.099" y="-1.07185" y_floorplan_percent="72.2685"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-162.96" id="Point01" tilt="0" target="-166.0/-3.0/70.0" skinid="ht_node" url="{node22}" description="" title="Pasillo"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node26" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-86.14" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA2|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:20" comment="" copyright="" nodeid="node26" info="" description="Dormitorio 1" latitude="" customnodeid="" title="Dormitorio 1">
+      <mapcoords mapid="FloorPlan02" x="2.07916" x_floorplan_percent="78.8542" y="-0.784836" y_floorplan_percent="52.9167"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-107.09" id="Point01" tilt="0" target="-95.8/-2.0/70.0" skinid="ht_node" url="{node22}" description="" title="Pasillo"/>
+      <hotspot pan="-215.28" id="Point02" tilt="0" target="151.6/-2.8/70.0" skinid="ht_node" url="{node27}" description="" title="Walking Closet"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node27" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-79.86" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA2|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:21" comment="" copyright="" nodeid="node27" info="" description="Walking Closet" latitude="" customnodeid="" title="Walking Closet">
+      <mapcoords mapid="FloorPlan02" x="2.13821" x_floorplan_percent="81.0938" y="-0.515671" y_floorplan_percent="34.7685"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-81.64" id="Point01" tilt="0" target="62.4/-7.0/70.0" skinid="ht_node" url="{node28}" description="" title="Baño Suite"/>
+      <hotspot pan="-1.23" id="Point02" tilt="0" target="1.7/-1.4/70.0" skinid="ht_node" url="{node26}" description="" title="Dormitorio 1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node28" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="90.31" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOA2|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:21" comment="" copyright="" nodeid="node28" info="" description="Baño Suite" latitude="" customnodeid="" title="Baño Suite">
+      <mapcoords mapid="FloorPlan02" x="1.89789" x_floorplan_percent="71.9792" y="-0.503998" y_floorplan_percent="33.9815"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="264.91" id="Point01" tilt="0" target="73.6/-12.1/70.0" skinid="ht_node" url="{node27}" description="" title="Walking Closet"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node32" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-179.8" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOB|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:02" comment="" copyright="" nodeid="node32" info="" description="Acceso Depto. B" latitude="" customnodeid="" title="Acceso Depto. B">
+      <mapcoords mapid="FloorPlan07" x="1.46942" x_floorplan_percent="55.7292" y="-0.494385" y_floorplan_percent="33.3333"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-60.76" id="Point01" tilt="0" target="45.2/-8.1/70.0" skinid="ht_node" url="{node29}" description="" title="Estar"/>
+      <hotspot pan="-3.72" id="Point02" tilt="0.13" target="-16.4/0.3/70.0" skinid="ht_node" url="{node30}" description="" title="Comedor - Cocina"/>
+      <hotspot pan="177.78" id="Point03" tilt="0" target="5.7/-4.0/70.0" skinid="ht_node" url="{node33}" description="" title="Pasillo"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node30" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="169.21" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOB|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:01" comment="" copyright="" nodeid="node30" info="" description="Comedor - Cocina" latitude="" customnodeid="" title="Comedor - Cocina">
+      <mapcoords mapid="FloorPlan07" x="1.70288" x_floorplan_percent="64.5833" y="-0.494385" y_floorplan_percent="33.3333"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-87.91" id="Point01" tilt="0" target="18.7/-3.1/70.0" skinid="ht_node" url="{node29}" description="" title="Estar"/>
+      <hotspot pan="173.66" id="Point02" tilt="0" target="171.8/-4.1/70.0" skinid="ht_node" url="{node32}" description="" title="Acceso Depto. B"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node29" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-81.09" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOB|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:01" comment="" copyright="" nodeid="node29" info="" description="Estar" latitude="" customnodeid="" title="Estar">
+      <mapcoords mapid="FloorPlan07" x="1.78528" x_floorplan_percent="67.7083" y="-0.810242" y_floorplan_percent="54.6296"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-342.82" id="Point01" tilt="-0.03" target="-5.2/0.4/70.0" skinid="ht_node" url="{node31}" description="" title="Terraza"/>
+      <hotspot pan="-139.49" id="Point02" tilt="0" target="124.8/-3.7/70.0" skinid="ht_node" url="{node32}" description="" title="Acceso Depto. B"/>
+      <hotspot pan="-189.57" id="Point03" tilt="0" target="61.5/-0.9/70.0" skinid="ht_node" url="{node30}" description="" title="Comedor - Cocina"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node31" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-71.28" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOB|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:24" comment="" copyright="" nodeid="node31" info="" description="Terraza" latitude="" customnodeid="" title="Terraza">
+      <mapcoords mapid="FloorPlan07" x="1.75781" x_floorplan_percent="66.6667" y="-1.23596" y_floorplan_percent="83.3333"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-178.61" id="Point01" tilt="0" target="-175.3/-0.3/70.0" skinid="ht_node" url="{node29}" description="" title="Estar"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node33" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOB|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:02" comment="" copyright="" nodeid="node33" info="" description="Pasillo" latitude="" customnodeid="" title="Pasillo">
+      <mapcoords mapid="FloorPlan07" x="1.22223" x_floorplan_percent="46.3542" y="-0.556183" y_floorplan_percent="37.5"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-183.92" id="Point01" tilt="0" target="-3.7/0.0/70.0" skinid="ht_node" url="{node32}" description="" title="Acceso Depto. B"/>
+      <hotspot pan="-132.17" id="Point02" tilt="0" target="-1.9/-2.8/70.0" skinid="ht_node" url="{node35}" description="" title="Baño 1"/>
+      <hotspot pan="-279.99" id="Point03" tilt="0" target="1.6/-1.7/70.0" skinid="ht_node" url="{node34}" description="" title="Dormitorio 2"/>
+      <hotspot pan="354.65" id="Point04" tilt="0" target="-66.5/0.0/70.0" skinid="ht_node" url="{node36}" description="" title="Dormitorio 1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node34" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-119.34" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOB|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:03" comment="" copyright="" nodeid="node34" info="" description="Dormitorio 2" latitude="" customnodeid="" title="Dormitorio 2">
+      <mapcoords mapid="FloorPlan07" x="1.33896" x_floorplan_percent="50.7813" y="-0.844574" y_floorplan_percent="56.9444"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-149.88" id="Point01" tilt="-0.25" target="-84.7/-3.9/70.0" skinid="ht_node" url="{node33}" description="" title="Pasillo"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node35" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="83.2" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOB|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:23" comment="" copyright="" nodeid="node35" info="" description="Baño 1" latitude="" customnodeid="" title="Baño 1">
+      <mapcoords mapid="FloorPlan07" x="1.31149" x_floorplan_percent="49.7396" y="-0.384521" y_floorplan_percent="25.9259"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="160.61" id="Point01" tilt="-0.49" target="50.4/-6.0/70.0" skinid="ht_node" url="{node33}" description="" title="Pasillo"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node36" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-61.1" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOB|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:04" comment="" copyright="" nodeid="node36" info="" description="Dormitorio 1" latitude="" customnodeid="" title="Dormitorio 1">
+      <mapcoords mapid="FloorPlan07" x="0.96817" x_floorplan_percent="36.7188" y="-0.727844" y_floorplan_percent="49.0741"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-186.8" id="Point01" tilt="0" target="173.2/0.0/70.0" skinid="ht_node" url="{node33}" description="" title="Pasillo"/>
+      <hotspot pan="-144.91" id="Point02" tilt="0" target="-4.5/-2.4/70.0" skinid="ht_node" url="{node37}" description="" title="Baño Suite"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node37" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="86.02" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOB|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:23" comment="" copyright="" nodeid="node37" info="" description="Baño Suite" latitude="" customnodeid="" title="Baño Suite">
+      <mapcoords mapid="FloorPlan07" x="0.926971" x_floorplan_percent="35.1563" y="-0.343323" y_floorplan_percent="23.1481"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="172.55" id="Point01" tilt="0" target="35.3/-2.6/70.0" skinid="ht_node" url="{node36}" description="" title="Dormitorio 1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node42" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="93.32" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOC|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:26" comment="" copyright="" nodeid="node42" info="" description="Acceso Depto. C" latitude="" customnodeid="" title="Acceso Depto. C">
+      <mapcoords mapid="FloorPlan05" x="1.20644" x_floorplan_percent="45.7552" y="-1.01349" y_floorplan_percent="68.3333"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-56.26" id="Point01" tilt="0" target="-35.1/0.0/70.0" skinid="ht_node" url="{node40}" description="" title="Estar"/>
+      <hotspot pan="268.55" id="Point02" tilt="0" target="-14.0/-2.3/70.0" skinid="ht_node" url="{node39}" description="" title="Comedor - Cocina"/>
+      <hotspot pan="-272.46" id="Point03" tilt="0" target="10.0/-3.0/70.0" skinid="ht_node" url="{node43}" description="" title="Pasillo"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node39" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="157.48" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOC|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:24" comment="" copyright="" nodeid="node39" info="" description="Comedor - Cocina" latitude="" customnodeid="" title="Comedor - Cocina">
+      <mapcoords mapid="FloorPlan05" x="1.49963" x_floorplan_percent="56.875" y="-1.0128" y_floorplan_percent="68.287"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-296.39" id="Point01" tilt="0" target="9.3/-2.4/70.0" skinid="ht_node" url="{node40}" description="" title="Estar"/>
+      <hotspot pan="145.34" id="Point02" tilt="0" target="85.1/-3.3/70.0" skinid="ht_node" url="{node42}" description="" title="Acceso Depto. C"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node40" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="95.21" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOC|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:25" comment="" copyright="" nodeid="node40" info="" description="Estar" latitude="" customnodeid="" title="Estar">
+      <mapcoords mapid="FloorPlan05" x="1.5937" x_floorplan_percent="60.4427" y="-0.562363" y_floorplan_percent="37.9167"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-349.01" id="Point01" tilt="0" target="11.1/0.4/70.0" skinid="ht_node" url="{node41}" description="" title="Terraza"/>
+      <hotspot pan="180.53" id="Point02" tilt="0" target="-128.4/-0.3/70.0" skinid="ht_node" url="{node39}" description="" title="Comedor - Cocina"/>
+      <hotspot pan="134.52" id="Point03" tilt="0" target="103.0/-1.3/70.0" skinid="ht_node" url="{node42}" description="" title="Acceso Depto. C"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node41" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="103.6" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOC|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:25" comment="" copyright="" nodeid="node41" info="" description="Terraza" latitude="" customnodeid="" title="Terraza">
+      <mapcoords mapid="FloorPlan05" x="1.6404" x_floorplan_percent="62.2135" y="-0.251999" y_floorplan_percent="16.9907"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="183.04" id="Point01" tilt="0" target="179.8/-2.4/70.0" skinid="ht_node" url="{node40}" description="" title="Estar"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node43" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="7.02" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOC|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:26" comment="" copyright="" nodeid="node43" info="" description="Pasillo" latitude="" customnodeid="" title="Pasillo">
+      <mapcoords mapid="FloorPlan05" x="0.943451" x_floorplan_percent="35.7813" y="-0.996323" y_floorplan_percent="67.1759"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="180.69" id="Point01" tilt="0" target="-86.0/0.0/70.0" skinid="ht_node" url="{node42}" description="" title="Acceso Depto. C"/>
+      <hotspot pan="144.01" id="Point02" tilt="0" target="15.2/-3.3/70.0" skinid="ht_node" url="{node44}" description="" title="Baño"/>
+      <hotspot pan="-92.83" id="Point03" tilt="0" target="3.0/0.0/70.0" skinid="ht_node" url="{node45}" description="" title="Dormitorio 2"/>
+      <hotspot pan="-11.76" id="Point04" tilt="0" target="-0.2/0.0/70.0" skinid="ht_node" url="{node38}" description="" title="Dormitorio 1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node38" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="11.53" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOC|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:28" comment="" copyright="" nodeid="node38" info="" description="Dormitorio 1" latitude="" customnodeid="" title="Dormitorio 1">
+      <mapcoords mapid="FloorPlan05" x="0.668106" x_floorplan_percent="25.3385" y="-0.948944" y_floorplan_percent="63.9815"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="162.96" id="Point01" tilt="0" target="170.0/0.0/70.0" skinid="ht_node" url="{node43}" description="" title="Pasillo"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node45" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="95.79" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOC|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:27" comment="" copyright="" nodeid="node45" info="" description="Dormitorio 2" latitude="" customnodeid="" title="Dormitorio 2">
+      <mapcoords mapid="FloorPlan05" x="1.07803" x_floorplan_percent="40.8854" y="-0.673599" y_floorplan_percent="45.4167"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="151.24" id="Point01" tilt="0" target="130.4/-0.5/70.0" skinid="ht_node" url="{node43}" description="" title="Pasillo"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node44" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-86.64" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOC|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:27" comment="" copyright="" nodeid="node44" info="" description="Baño" latitude="" customnodeid="" title="Baño">
+      <mapcoords mapid="FloorPlan05" x="0.97229" x_floorplan_percent="36.875" y="-1.18927" y_floorplan_percent="80.1852"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-178.71" id="Point01" tilt="0" target="-140.1/-0.6/70.0" skinid="ht_node" url="{node43}" description="" title="Pasillo"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node47" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="95.8" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="EDITADOS|INTERIOR|DEPTOD" datetime="2023:02:27 22:05:28" comment="" copyright="" nodeid="node47" info="" description="Acceso Depto. D" latitude="" customnodeid="" title="Acceso Depto. D">
+      <mapcoords mapid="FloorPlan06" x="1.26274" x_floorplan_percent="47.8906" y="-0.274658" y_floorplan_percent="18.5185"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="1.38" id="Point01" tilt="0" target="-3.1/-2.0/70.0" skinid="ht_node" url="{node48}" description="" title="Estar A"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node48" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="92.91" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="EDITADOS|INTERIOR|DEPTOD" datetime="2023:02:27 22:05:29" comment="" copyright="" nodeid="node48" info="" description="Estar A" latitude="" customnodeid="" title="Estar A">
+      <mapcoords mapid="FloorPlan06" x="1.25107" x_floorplan_percent="47.4479" y="-0.655746" y_floorplan_percent="44.213"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="178.486" id="Point01" tilt="0" target="$fwd" skinid="ht_node" url="{node47}" description="" title="Acceso Depto. D"/>
+      <hotspot pan="-8.45" id="Point03" tilt="0" target="-42.5/-1.8/70.0" skinid="ht_node" url="{node49}" description="" title="Estar B"/>
+      <hotspot pan="49.65" id="Point04" tilt="0" target="18.0/1.4/70.0" skinid="ht_node" url="{node51}" description="" title="Cocina"/>
+      <hotspot pan="103.33" id="Point05" tilt="0" target="3.4/-4.0/70.0" skinid="ht_node" url="{node55}" description="" title="Acceso Dormitorio 1"/>
+      <hotspot pan="-87.23" id="Point02" tilt="0" target="-14.5/-4.6/70.0" skinid="ht_node" url="{node52}" description="" title="Estar C"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node49" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="47.55" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="EDITADOS|INTERIOR|DEPTOD" datetime="2023:02:27 22:05:29" comment="" copyright="" nodeid="node49" info="" description="Estar B" latitude="" customnodeid="" title="Estar B">
+      <mapcoords mapid="FloorPlan06" x="1.1982" x_floorplan_percent="45.4427" y="-1.00182" y_floorplan_percent="67.5463"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="138.77" id="Point01" tilt="0" target="179.1/-0.5/70.0" skinid="ht_node" url="{node48}" description="" title="Estar A"/>
+      <hotspot pan="279.5" id="Point02" tilt="0" target="82.1/3.5/70.0" skinid="ht_node" url="{node50}" description="" title="Terraza"/>
+      <hotspot pan="53.52" id="Point03" tilt="0" target="72.4/1.8/70.0" skinid="ht_node" url="{node51}" description="" title="Cocina"/>
+      <hotspot pan="188.3" id="Point04" tilt="0" target="-70.0/-2.8/70.0" skinid="ht_node" url="{node52}" description="" title="Estar C"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node50" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="178.7" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="EDITADOS|INTERIOR|DEPTOD" datetime="2023:02:27 22:05:30" comment="" copyright="" nodeid="node50" info="" description="Terraza" latitude="" customnodeid="" title="Terraza">
+      <mapcoords mapid="FloorPlan06" x="1.31493" x_floorplan_percent="49.8698" y="-1.33553" y_floorplan_percent="90.0463"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="328.28" id="Point01" tilt="0" target="-179.7/-1.7/70.0" skinid="ht_node" url="{node49}" description="" title="Estar B"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node52" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="165.17" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="EDITADOS|INTERIOR|DEPTOD" datetime="2023:02:27 22:05:30" comment="" copyright="" nodeid="node52" info="" description="Estar C" latitude="" customnodeid="" title="Estar C">
+      <mapcoords mapid="FloorPlan06" x="0.85762" x_floorplan_percent="32.526" y="-0.75531" y_floorplan_percent="50.9259"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-25.46" id="Point02" tilt="-0.13" target="-13.8/-2.7/70.0" skinid="ht_node" url="{node53}" description="" title="Baño 1"/>
+      <hotspot pan="-297.95" id="Point03" tilt="0" target="67.7/-8.2/70.0" skinid="ht_node" url="{node54}" description="" title="Dormitorio 2"/>
+      <hotspot pan="-233.22" id="Point04" tilt="0" target="21.4/-3.0/70.0" skinid="ht_node" url="{node49}" description="" title="Estar B"/>
+      <hotspot pan="-195.34" id="Point01" tilt="0" target="102.6/-2.8/70.0" skinid="ht_node" url="{node48}" description="" title="Estar A"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node51" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node51/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="51.86" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="EDITADOS|INTERIOR|DEPTOD" datetime="2023:02:27 22:05:30" comment="" copyright="" nodeid="node51" info="" description="Cocina" latitude="" customnodeid="" title="Cocina">
+      <mapcoords mapid="FloorPlan06" x="1.62048" x_floorplan_percent="61.4583" y="-0.97229" y_floorplan_percent="65.5556"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="186.42" id="Point01" tilt="0.14" target="-142.2/-2.0/70.0" skinid="ht_node" url="{node48}" description="" title="Estar A"/>
+      <hotspot pan="-129.12" id="Point02" tilt="0" target="-131.0/-2.4/70.0" skinid="ht_node" url="{node49}" description="" title="Estar B"/>
+      <hotspot pan="144.61" id="Point03" tilt="0" target="0.5/-3.7/70.0" skinid="ht_node" url="{node55}" description="" title="Acceso Dormitorio 1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node53" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node53/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-176.6" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="EDITADOS|INTERIOR|DEPTOD" datetime="2023:02:27 22:05:30" comment="" copyright="" nodeid="node53" info="" description="Baño 1" latitude="" customnodeid="" title="Baño 1">
+      <mapcoords mapid="FloorPlan06" x="0.582962" x_floorplan_percent="22.1094" y="-0.696945" y_floorplan_percent="46.9907"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-181.47" id="Point01" tilt="0" target="155.0/-1.1/70.0" skinid="ht_node" url="{node52}" description="" title="Estar C"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node54" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node54/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="176.61" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="EDITADOS|INTERIOR|DEPTOD" datetime="2023:02:27 22:05:31" comment="" copyright="" nodeid="node54" info="" description="Dormitorio 2" latitude="" customnodeid="" title="Dormitorio 2">
+      <mapcoords mapid="FloorPlan06" x="0.658493" x_floorplan_percent="24.974" y="-1.19476" y_floorplan_percent="80.5556"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="264.04" id="Point01" tilt="0" target="-123.5/-4.3/70.0" skinid="ht_node" url="{node52}" description="" title="Estar C"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node55" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node55/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="EDITADOS|INTERIOR|DEPTOD" datetime="2023:02:27 22:05:31" comment="" copyright="" nodeid="node55" info="" description="Acceso Dormitorio 1" latitude="" customnodeid="" title="Acceso Dormitorio 1">
+      <mapcoords mapid="FloorPlan06" x="1.87798" x_floorplan_percent="71.224" y="-0.614548" y_floorplan_percent="41.4352"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-198.04" id="Point01" tilt="0" target="-99.5/0.6/70.0" skinid="ht_node" url="{node48}" description="" title="Estar A"/>
+      <hotspot pan="-90.03" id="Point02" tilt="0" target="-4.0/0.0/70.0" skinid="ht_node" url="{node46}" description="" title="Pasillo Dormitorio 1"/>
+      <hotspot pan="-177.76" id="Point03" tilt="0" target="-125.9/0.0/70.0" skinid="ht_node" url="{node51}" description="" title="Cocina"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node46" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="86.01" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOD|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:33" comment="" copyright="" nodeid="node46" info="" description="Pasillo Dormitorio 1" latitude="" customnodeid="" title="Pasillo Dormitorio 1">
+      <mapcoords mapid="FloorPlan06" x="1.84845" x_floorplan_percent="70.1042" y="-0.866547" y_floorplan_percent="58.4259"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="166.657" id="Point01" tilt="0" target="$fwd" skinid="ht_node" url="{node55}" description="" title="Acceso Dormitorio 1"/>
+      <hotspot pan="89.16" id="Point02" tilt="0" target="-0.2/-2.4/70.0" skinid="ht_node" url="{node57}" description="" title="Baño Suite"/>
+      <hotspot pan="2.99" id="Point03" tilt="0" target="-0.9/0.2/70.0" skinid="ht_node" url="{node56}" description="" title="Dormitorio 1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node56" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node56/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="86.2" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="EDITADOS|INTERIOR|DEPTOD" datetime="2023:02:27 22:05:32" comment="" copyright="" nodeid="node56" info="" description="Dormitorio 1" latitude="" customnodeid="" title="Dormitorio 1">
+      <mapcoords mapid="FloorPlan06" x="1.90132" x_floorplan_percent="72.1094" y="-1.1776" y_floorplan_percent="79.3981"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="226.77" id="Point01" tilt="0" target="177.6/-2.4/70.0" skinid="ht_node" url="{node46}" description="" title="Pasillo Dormitorio 1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node57" hideabout="1">
+    <input overlap="1" levelingpitch="0" height="1024" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node57/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1024" leveltilesize="510" levelbiashidpi="1.000">
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-20.32" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="120" pan="360" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" longitude="" author="" tags="DEPTOD|EDITADOS|INTERIOR" datetime="2023:02:27 22:05:32" comment="" copyright="" nodeid="node57" info="" description="Baño Suite" latitude="" customnodeid="" title="Baño Suite">
+      <mapcoords mapid="FloorPlan06" x="2.07092" x_floorplan_percent="78.5417" y="-0.843887" y_floorplan_percent="56.8981"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" width="180" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" textalpha="1" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-195.59" id="Point01" tilt="0" target="-109.6/0.0/70.0" skinid="ht_node" url="{node46}" description="" title="Pasillo Dormitorio 1"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" zoomfov="20" enabled="1" type="crossdissolve" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" lockedmouse="0" contextfullscreen="1" rubberband="0" contextprojections="0" invertwheel="0" invertcontrol="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="1" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata source="" longitude="" author="" tags="" datetime="" comment="" copyright="" nodeid="master" info="" description="" latitude="" customnodeid="" title=""/>
+  </masternode>
+  <map height="4320" id="FloorPlan01" transparent="0" width="7680" bgcolor="rgba(255, 255, 255, 1)" tileformat="jpg" type="file" zoomlevels="6" title="" floorplannorth="269"/>
+  <map height="2160" id="FloorPlan02" transparent="0" width="3840" bgcolor="rgba(255, 255, 255, 1)" tileformat="jpg" type="file" zoomlevels="5" title="" floorplannorth="271"/>
+  <map height="2160" id="FloorPlan05" transparent="0" width="3840" bgcolor="rgba(255, 255, 255, 1)" tileformat="jpg" type="file" zoomlevels="5" title="" floorplannorth="268"/>
+  <map height="2160" id="FloorPlan06" transparent="0" width="3840" bgcolor="rgba(255, 255, 255, 1)" tileformat="jpg" type="file" zoomlevels="5" title="" floorplannorth="87.33"/>
+  <map height="2160" id="FloorPlan03" transparent="0" width="3840" bgcolor="rgba(255, 255, 255, 1)" tileformat="jpg" type="file" zoomlevels="5" title="" floorplannorth="269"/>
+  <map height="2160" id="FloorPlan07" transparent="0" width="3840" bgcolor="rgba(255, 255, 255, 1)" tileformat="jpg" type="file" zoomlevels="5" title="" floorplannorth="269"/>
+  <map height="2160" id="FloorPlan04" transparent="0" width="3840" bgcolor="rgba(255, 255, 255, 1)" tileformat="jpg" type="file" zoomlevels="5" title="" floorplannorth="0"/>
+</tour>
